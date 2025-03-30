@@ -1,0 +1,35 @@
+/* Style the header */
+.header {
+    background-color: #3498db; /* Blue background */
+    color: white; /* White text color */
+    text-align: center; /* Center the text */
+    padding: 20px; /* Add space inside the header */
+    font-size: 24px; /* Make the text larger */
+}
+
+/* Style the paragraph text */
+.text {
+    font-family: Arial, sans-serif; /* Use a clean, readable font */
+    font-size: 18px; /* Set the text size */
+    color: #333; /* Dark gray text color */
+    margin: 20px; /* Add space outside the paragraph */
+    padding: 10px; /* Add space inside the paragraph */
+    line-height: 1.5; /* Improve readability with spacing between lines */
+}
+
+/* Style the image */
+#sample-image {
+    width: 300px; /* Set the image width */
+    border: 5px solid #2ecc71; /* Add a green border */
+    margin: 20px auto; /* Center the image */
+    display: block; /* Make sure the image is on its own line */
+    border-radius: 10px; /* Round the corners slightly */
+}
+
+/* Style the content section */
+.content {
+    padding: 30px; /* Add space inside the section */
+    border: 2px dashed #e74c3c; /* Add a red dashed border */
+    margin: 20px; /* Add space outside the section */
+    background-color: #f9f9f9; /* Light gray background for contrast */
+}
